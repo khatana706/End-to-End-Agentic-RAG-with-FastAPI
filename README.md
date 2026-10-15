@@ -37,9 +37,8 @@ D:\End_to_End_Agentic_RAG\
 
 '''
 ##  Workflow Architecture
-Here is the visual representation of the LangGraph Agentic RAG workflow:
 
-![Workflow Diagram ](rag_workflow.png)
+![Workflow Diagram](rag_workflow.png)
 
 ## Windows / VS Code setup
 1. Install Python 3.12.
