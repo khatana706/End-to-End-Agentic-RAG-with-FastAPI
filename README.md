@@ -50,8 +50,7 @@ D:\End_to_End_Agentic_RAG\
    python -m pip install --upgrade pip
    pip install -r requirements.txt
    ```
-3. Put your own PDF(s) in `data/pdfs/`.
-
+3. Put our own PDF(s) in `data/pdfs/`.
 
 4. Build the index:
    ```powershell
