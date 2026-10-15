@@ -34,14 +34,15 @@ D:\End_to_End_Agentic_RAG\
         ├── state/state.py
         ├── vectorstore/{store.py, ingest.py}
         └── ui/streamlitui/loadui.py
-
-'''
+```
 ##  Workflow Architecture
 
 ![Workflow Diagram](rag_workflow.png)
 
 ## Windows / VS Code setup
+```
 1. Install Python 3.12.
+```
 2. In the repository root:
    ```powershell
    py -3.12 -m venv .venv
