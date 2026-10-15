@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+data/pdfs/*
+!data/pdfs/.gitkeep
+data/chroma/
+data/answers.jsonl
+data/feedback.jsonl
+*.sqlite
+*.db
+.pytest_cache/

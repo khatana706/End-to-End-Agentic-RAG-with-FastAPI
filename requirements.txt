@@ -1,0 +1,16 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+streamlit>=1.40,<2
+requests>=2.32,<3
+langgraph>=0.2.60
+langchain-core>=0.3.25
+langchain-groq>=0.2.1
+langchain-community>=0.3.12
+langchain-chroma>=0.1.4
+langchain-huggingface>=0.1.2
+langchain-text-splitters>=0.3.4
+chromadb>=0.5.23
+sentence-transformers>=3.3.1
+pypdf>=5.1
+pydantic>=2.10
+fonttools
