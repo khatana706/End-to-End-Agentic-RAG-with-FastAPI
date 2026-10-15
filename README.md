@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-End Agentic Science RAG
 
 A portfolio project for answering questions from science textbook PDFs with Streamlit, FastAPI, LangGraph, ChromaDB, Hugging Face embeddings and Groq-hosted LLMs. No SQLite is used.
@@ -92,3 +93,6 @@ If you already have a Git repo, inspect `git status` and `git remote -v` first; 
 - Added Accepted / Rejected human feedback using JSONL file storage without SQLite.
 
 Test the application in your environment before claiming evaluation scores or deployment on a resume.
+=======
+# End-to-End-Agentic-RAG-with-FastAPI
+>>>>>>> d9d5a1b6bab075cfcb85c39c6c97fa88dea250ec
